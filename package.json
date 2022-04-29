@@ -1,0 +1,18 @@
+{
+  "name": "adapt-simple-test",
+  "version": "0.0.1",
+  "description": "Description of your component",
+  "main": "",
+  "scripts": {
+    "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MihalyPsycle/adapt-simple-test.git"
+  },
+  "author": "Mihaly",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/MihalyPsycle/adapt-simple-test.git/issues"
+  }
+}
