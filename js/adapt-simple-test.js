@@ -6,12 +6,12 @@ define([
     var ComponentName = ComponentView.extend({
 
         preRender: function() {
-            console.log("preRender");
+            console.log("preRender plugin simple-test");
             //here is a good place to add any code you want to run prior to the component being rendered
         },
 
         postRender: function() {
-            console.log("postRender");
+            console.log("postRender plugin simple-test");
             // IMPORTANT!
             // Both of the following methods need to be called inside your view.
 

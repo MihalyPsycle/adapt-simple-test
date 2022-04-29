@@ -1,4 +1,17 @@
 {
-    "directory": "src/plugins",
-    "registry": "http://adapt-bower-repository.herokuapp.com/"
+  "name": "adapt-simple-test",
+  "version": "0.0.1",
+  "framework": ">=5.19.1",
+  "homepage": "https://github.com/MihalyPsycle/adapt-simple-test",
+  "bugs": "https://github.com/MihalyPsycle/adapt-simple-test/issues",
+  "component" : "simple-test",
+  "targetAttribute": "_simple-test",
+  "displayName" : "Text Input",
+  "description": "A simple component that allows the learner to input text based upon a question stem.",
+  "main": "/js/adapt-simple-test.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPL-3.0"
 }
